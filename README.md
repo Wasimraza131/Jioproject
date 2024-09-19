@@ -14,10 +14,16 @@ major web browsers.
 - Taha
 - Aaliya
 
-## Installing
+## Pre-requisite
 
-These are the requirements to create your own local dev environment to contribute to Selenium.
-
+- Core Java
+- Selenium Framework
+- Cucumber
+- Postman
+- TestNG
+- Jenkings
+- Git
+  
 ### All Platforms
 * [Bazelisk](https://github.com/bazelbuild/bazelisk), a Bazel wrapper that automatically downloads
   the version of Bazel specified in `.bazelversion` file and transparently passes through all
