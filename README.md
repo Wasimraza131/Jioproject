@@ -1,7 +1,6 @@
 # Jioproject Automation Testing Using Selenium (Java)
-This is the sample project 
-# Selenium
 
+JioProject is developed by [Lavatech Technology.](https://lavatechtechnology.com)This project is inigiated by Wasim of IT department and is purpose of testing.
 Selenium is an umbrella project encapsulating a variety of tools and
 libraries enabling web browser automation. Selenium specifically
 provides an infrastructure for the [W3C WebDriver specification](https://w3c.github.io/webdriver/)
